@@ -1,6 +1,6 @@
 {
-    "name": TEMPLETE1,
-    "description": New templete workflow,
+    "name": "TEMPLETE1",
+    "description": "New templete workflow",
     "iconName": "example-icon",
     "categories": [ 
         "Go"
