@@ -1,11 +1,7 @@
 {
-    "name": TEMPLETE1, # ⬅️ Required. Fill in with any name
-    "description": New templete workflow, # ⬅️ Required. 
-    "iconName": "example-icon", # ⬅️ SVG file name (without extension!) that is in the workflow directory
-    # You can use a value from one of 3 categories:
-    # - general - https://github.com/actions/starter-workflows/blob/main/README.md#categories
-    # - languages - https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml
-    # - tech stack - https://github.com/github-starter-workflows/repo-analysis-partner/blob/main/tech_stacks.yml
+    "name": TEMPLETE1,
+    "description": New templete workflow,
+    "iconName": "example-icon",
     "categories": [ 
         "Go"
     ],
